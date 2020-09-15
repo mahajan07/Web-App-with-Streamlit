@@ -1,8 +1,8 @@
 # Web-App-with-Streamlit
 ## Build a Machine Learning Web App with Streamlit and Python
 
-### Project Structure
-The hands on project on Build a Machine Learning Web App with Streamlit and Python is divided into following tasks:
+## Project Structure
+#### The hands on project on Build a Machine Learning Web App with Streamlit and Python is divided into following tasks:
 
 ### Task 1: Project Overview and Demo
 ### Task 2: Turn Simple Python Scripts into Web Apps
