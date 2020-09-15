@@ -1,4 +1,4 @@
-# Web-App-with-Streamlit
+# WebApp with Streamlit
 ## Build a Machine Learning Web App with Streamlit and Python
 
 ## Project Structure
