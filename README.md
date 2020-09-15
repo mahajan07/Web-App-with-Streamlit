@@ -14,3 +14,8 @@
 ### Task 7: Training a Support Vector Classifier (Part 2)
 ### Task 8: Train a Logistic Regression Classifier
 ### Task 9: Training a Random Forest Classifier
+
+
+The project is implemented in the Microsoft Visual Studio Code by using all the essential libraries
+like:- streamlit, scikit, numpy, pandas all automatically called in the visual studio. The command 
+[code filename.py] in the terminal to give the command to open visual studio.
